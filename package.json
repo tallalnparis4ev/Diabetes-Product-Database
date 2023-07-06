@@ -1,0 +1,22 @@
+{
+  "name": "diabetes-product-database",
+  "version": "1.0.0",
+  "description": "This repository is aimed at creating a comprehensive, open-source database of all medical supplies related to diabetes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tallalnparis4ev/Diabetes-Product-Database.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tallalnparis4ev/Diabetes-Product-Database/issues"
+  },
+  "homepage": "https://github.com/tallalnparis4ev/Diabetes-Product-Database#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}

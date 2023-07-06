@@ -1,0 +1,26 @@
+# Dependency directories
+/node_modules
+
+# Compiled output
+/dist
+/out
+/build
+
+# TypeScript configuration
+/tsconfig.json
+/tsconfig.tsbuildinfo
+
+# Editor directories and files
+/.vscode
+/.idea
+/.vs
+
+# Environment variables
+/.env
+
+# Logs and debugging files
+/*.log
+/debug.log
+
+# Miscellaneous
+/.DS_Store
